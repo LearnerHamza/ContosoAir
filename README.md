@@ -1,5 +1,8 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/tarikjafar91/DemoForGit/_apis/build/status%2FLearnerHamza.ContosoAir?branchName=master)]
+
+(https://dev.azure.com/tarikjafar91/DemoForGit/_build/latest?definitionId=9&branchName=master)
 
 # Microsoft.Github CI Demo
 
